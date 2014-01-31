@@ -1,6 +1,29 @@
 /* Your Website Styles */
 body {
-	background: orange;
+	background: #90cae8;
+	color: #fff;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1 {
+	background: #3c7be8;
+	margin: 20px 20px 20px 0px;
+	padding: 20px;
+	border-radius: 30px;
+}
+
+a {
+	color: #005fff;
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
+}
+
+h3 {
+	font-size: 25px;
+	color: #7d7a79;
 }
 
 
